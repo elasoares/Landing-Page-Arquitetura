@@ -16,14 +16,14 @@ header{
 
 
 #titulo-header{
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin-left: 275px;
   margin-top: 50px;
   color: #fff;
 }
 
 #subtitulo-header{
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin-left: 275px;
   margin-top: 25px;
   color: #fff;
@@ -48,12 +48,12 @@ header{
 }
 
 #informacao-itens p{
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #000;
 }
 
 #informacao-itens h3{
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 #sobre{
@@ -74,7 +74,7 @@ iframe{
 
 #sobre p{
   color: #000;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 .sobre-itens{
@@ -123,7 +123,7 @@ iframe{
 
 #container-contato h1{
   color: #fff;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 #contato-itens{
